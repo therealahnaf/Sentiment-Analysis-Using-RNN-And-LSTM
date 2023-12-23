@@ -5,6 +5,7 @@ This report investigates sentiment analysis using IMDb movie reviews as a datase
 Dataset Description:
 
 Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 Our dataset consists of the text in the review and the sentiment label for each review.
 review: This is the sequence of sentences for each review.
 sentiment: This is the sentiment label for each review.
